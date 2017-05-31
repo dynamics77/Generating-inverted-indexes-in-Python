@@ -1,0 +1,1 @@
+{"done": [{"file_name": "hamlet.txt", "occurrences": 10}, {"file_name": "julius-caesar.txt", "occurrences": 19}, {"file_name": "macbeth.txt", "occurrences": 24}, {"file_name": "othello.txt", "occurrences": 16}, {"file_name": "romeo-and-juliet.txt", "occurrences": 7}]}

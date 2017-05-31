@@ -1,0 +1,1 @@
+{"hath": [{"file_name": "hamlet.txt", "occurrences": 51}, {"file_name": "julius-caesar.txt", "occurrences": 29}, {"file_name": "macbeth.txt", "occurrences": 38}, {"file_name": "othello.txt", "occurrences": 53}, {"file_name": "romeo-and-juliet.txt", "occurrences": 50}]}

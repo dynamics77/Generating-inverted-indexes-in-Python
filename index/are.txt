@@ -1,0 +1,1 @@
+{"are": [{"file_name": "hamlet.txt", "occurrences": 118}, {"file_name": "julius-caesar.txt", "occurrences": 91}, {"file_name": "macbeth.txt", "occurrences": 57}, {"file_name": "othello.txt", "occurrences": 87}, {"file_name": "romeo-and-juliet.txt", "occurrences": 61}]}

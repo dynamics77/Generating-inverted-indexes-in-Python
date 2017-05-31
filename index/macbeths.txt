@@ -1,0 +1,1 @@
+{"macbeths": [{"file_name": "macbeth.txt", "occurrences": 7}]}

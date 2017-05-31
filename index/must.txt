@@ -1,0 +1,1 @@
+{"must": [{"file_name": "hamlet.txt", "occurrences": 52}, {"file_name": "julius-caesar.txt", "occurrences": 33}, {"file_name": "macbeth.txt", "occurrences": 30}, {"file_name": "othello.txt", "occurrences": 54}, {"file_name": "romeo-and-juliet.txt", "occurrences": 37}]}

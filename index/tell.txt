@@ -1,0 +1,1 @@
+{"tell": [{"file_name": "hamlet.txt", "occurrences": 34}, {"file_name": "julius-caesar.txt", "occurrences": 32}, {"file_name": "macbeth.txt", "occurrences": 6}, {"file_name": "othello.txt", "occurrences": 20}, {"file_name": "romeo-and-juliet.txt", "occurrences": 41}]}

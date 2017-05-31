@@ -1,0 +1,1 @@
+{"traitors": [{"file_name": "julius-caesar.txt", "occurrences": 7}, {"file_name": "macbeth.txt", "occurrences": 1}]}

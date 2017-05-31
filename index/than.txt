@@ -1,0 +1,1 @@
+{"than": [{"file_name": "hamlet.txt", "occurrences": 35}, {"file_name": "julius-caesar.txt", "occurrences": 33}, {"file_name": "macbeth.txt", "occurrences": 18}, {"file_name": "othello.txt", "occurrences": 30}, {"file_name": "romeo-and-juliet.txt", "occurrences": 36}]}

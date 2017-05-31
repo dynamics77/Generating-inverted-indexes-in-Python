@@ -1,0 +1,1 @@
+{"looks": [{"file_name": "hamlet.txt", "occurrences": 5}, {"file_name": "julius-caesar.txt", "occurrences": 2}, {"file_name": "macbeth.txt", "occurrences": 1}, {"file_name": "othello.txt", "occurrences": 3}, {"file_name": "romeo-and-juliet.txt", "occurrences": 3}]}

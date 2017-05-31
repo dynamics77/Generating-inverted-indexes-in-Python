@@ -1,0 +1,1 @@
+{"foolthat": [{"file_name": "othello.txt", "occurrences": 1}]}

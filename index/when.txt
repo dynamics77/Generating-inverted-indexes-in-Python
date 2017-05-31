@@ -1,0 +1,1 @@
+{"when": [{"file_name": "hamlet.txt", "occurrences": 28}, {"file_name": "julius-caesar.txt", "occurrences": 41}, {"file_name": "macbeth.txt", "occurrences": 22}, {"file_name": "othello.txt", "occurrences": 35}, {"file_name": "romeo-and-juliet.txt", "occurrences": 38}]}

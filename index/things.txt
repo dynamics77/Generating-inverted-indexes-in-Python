@@ -1,0 +1,1 @@
+{"things": [{"file_name": "hamlet.txt", "occurrences": 10}, {"file_name": "julius-caesar.txt", "occurrences": 10}, {"file_name": "macbeth.txt", "occurrences": 17}, {"file_name": "othello.txt", "occurrences": 9}, {"file_name": "romeo-and-juliet.txt", "occurrences": 4}]}

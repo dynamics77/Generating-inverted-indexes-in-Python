@@ -1,0 +1,1 @@
+{"takes": [{"file_name": "hamlet.txt", "occurrences": 6}, {"file_name": "macbeth.txt", "occurrences": 3}, {"file_name": "othello.txt", "occurrences": 2}]}

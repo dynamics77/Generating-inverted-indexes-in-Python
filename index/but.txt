@@ -1,0 +1,1 @@
+{"but": [{"file_name": "hamlet.txt", "occurrences": 172}, {"file_name": "julius-caesar.txt", "occurrences": 82}, {"file_name": "macbeth.txt", "occurrences": 77}, {"file_name": "othello.txt", "occurrences": 137}, {"file_name": "romeo-and-juliet.txt", "occurrences": 105}]}

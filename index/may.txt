@@ -1,0 +1,1 @@
+{"may": [{"file_name": "hamlet.txt", "occurrences": 58}, {"file_name": "julius-caesar.txt", "occurrences": 30}, {"file_name": "macbeth.txt", "occurrences": 22}, {"file_name": "othello.txt", "occurrences": 47}, {"file_name": "romeo-and-juliet.txt", "occurrences": 41}]}

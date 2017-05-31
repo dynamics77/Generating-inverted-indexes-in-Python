@@ -1,0 +1,1 @@
+{"good": [{"file_name": "hamlet.txt", "occurrences": 79}, {"file_name": "julius-caesar.txt", "occurrences": 49}, {"file_name": "macbeth.txt", "occurrences": 39}, {"file_name": "othello.txt", "occurrences": 67}, {"file_name": "romeo-and-juliet.txt", "occurrences": 63}]}

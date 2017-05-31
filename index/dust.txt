@@ -1,0 +1,1 @@
+{"dust": [{"file_name": "hamlet.txt", "occurrences": 6}, {"file_name": "romeo-and-juliet.txt", "occurrences": 1}]}

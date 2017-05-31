@@ -1,0 +1,1 @@
+{"norway": [{"file_name": "hamlet.txt", "occurrences": 9}, {"file_name": "macbeth.txt", "occurrences": 2}]}

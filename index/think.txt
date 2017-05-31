@@ -1,0 +1,1 @@
+{"think": [{"file_name": "hamlet.txt", "occurrences": 41}, {"file_name": "julius-caesar.txt", "occurrences": 19}, {"file_name": "macbeth.txt", "occurrences": 7}, {"file_name": "othello.txt", "occurrences": 54}, {"file_name": "romeo-and-juliet.txt", "occurrences": 16}]}

@@ -1,0 +1,1 @@
+{"husband": [{"file_name": "hamlet.txt", "occurrences": 8}, {"file_name": "othello.txt", "occurrences": 11}, {"file_name": "romeo-and-juliet.txt", "occurrences": 9}]}

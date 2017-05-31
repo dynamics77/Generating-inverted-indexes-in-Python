@@ -1,0 +1,1 @@
+{"with": [{"file_name": "hamlet.txt", "occurrences": 208}, {"file_name": "julius-caesar.txt", "occurrences": 138}, {"file_name": "macbeth.txt", "occurrences": 127}, {"file_name": "othello.txt", "occurrences": 186}, {"file_name": "romeo-and-juliet.txt", "occurrences": 221}]}

@@ -1,0 +1,1 @@
+{"enter": [{"file_name": "hamlet.txt", "occurrences": 5}, {"file_name": "julius-caesar.txt", "occurrences": 10}, {"file_name": "macbeth.txt", "occurrences": 18}, {"file_name": "romeo-and-juliet.txt", "occurrences": 4}]}

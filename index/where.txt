@@ -1,0 +1,1 @@
+{"where": [{"file_name": "hamlet.txt", "occurrences": 29}, {"file_name": "julius-caesar.txt", "occurrences": 14}, {"file_name": "macbeth.txt", "occurrences": 19}, {"file_name": "othello.txt", "occurrences": 23}, {"file_name": "romeo-and-juliet.txt", "occurrences": 23}]}

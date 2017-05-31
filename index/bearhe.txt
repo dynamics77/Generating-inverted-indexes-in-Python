@@ -1,0 +1,1 @@
+{"bearhe": [{"file_name": "macbeth.txt", "occurrences": 1}]}

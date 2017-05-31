@@ -1,0 +1,1 @@
+{"thou": [{"file_name": "hamlet.txt", "occurrences": 85}, {"file_name": "julius-caesar.txt", "occurrences": 101}, {"file_name": "macbeth.txt", "occurrences": 65}, {"file_name": "othello.txt", "occurrences": 115}, {"file_name": "romeo-and-juliet.txt", "occurrences": 233}]}

@@ -1,0 +1,7 @@
+{
+  "files_directory": "files",
+  "index_directory": "index",
+  "extensions": ["txt"],
+  "delimiter": " ",
+  "encoding": "UTF-8"
+}

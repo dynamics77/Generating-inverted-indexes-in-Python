@@ -1,0 +1,1 @@
+{"and": [{"file_name": "hamlet.txt", "occurrences": 682}, {"file_name": "julius-caesar.txt", "occurrences": 428}, {"file_name": "macbeth.txt", "occurrences": 410}, {"file_name": "othello.txt", "occurrences": 572}, {"file_name": "romeo-and-juliet.txt", "occurrences": 479}]}

@@ -1,0 +1,1 @@
+{"lord": [{"file_name": "hamlet.txt", "occurrences": 103}, {"file_name": "julius-caesar.txt", "occurrences": 12}, {"file_name": "macbeth.txt", "occurrences": 18}, {"file_name": "othello.txt", "occurrences": 45}, {"file_name": "romeo-and-juliet.txt", "occurrences": 22}]}

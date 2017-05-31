@@ -1,0 +1,1 @@
+{"witchesfirst": [{"file_name": "macbeth.txt", "occurrences": 3}]}

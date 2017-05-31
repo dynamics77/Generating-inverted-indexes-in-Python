@@ -1,0 +1,1 @@
+{"were": [{"file_name": "hamlet.txt", "occurrences": 23}, {"file_name": "julius-caesar.txt", "occurrences": 35}, {"file_name": "macbeth.txt", "occurrences": 32}, {"file_name": "othello.txt", "occurrences": 26}, {"file_name": "romeo-and-juliet.txt", "occurrences": 31}]}
