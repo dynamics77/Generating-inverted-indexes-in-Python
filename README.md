@@ -6,7 +6,7 @@ This program constructs an inverted index from the words contained within a seri
 ## Word file structure
 The word “hello” found in files: file_1.txt and file_2.txt
 ```html
-{“hello”: [{“file_name”: “file_1.txt”, “occurrences”: 6}, {“file_name”: “file_2.txt”, “occurrences”: 2}]}
+{"hello": [{"file_name": "file_1.txt", "occurrences": 6}, {"file_name": "file_2.txt", "occurrences": 2}]}
 ```
 
 The advantage of splitting words into separate files is that it will be much faster to read and load each file into memory when running searches - compared to storing the entire index inside one text file.
