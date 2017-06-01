@@ -1,4 +1,4 @@
-# Inverted indexes in Python
+# Generating inverted indexes in Python
 A program for generating inverted indexes from text files.
 
 This program constructs an inverted index from the words contained within a series of text files; the index is generated in memory and them saved to disk immediately. The index is constructed in a way where all files associated with a word are contained within a single text file; in other words, each word has its own text file - each text file contains a JSON string object, which contains a list of objects, which each contain which file contained the word and how many times the word occurred.
